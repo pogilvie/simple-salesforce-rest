@@ -1,0 +1,19 @@
+{
+  "name": "tproject",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^12.1.0"
+  },
+  "devDependencies": {
+    "@tsconfig/node16-strictest-esm": "^1.0.3"
+  }
+}
